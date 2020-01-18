@@ -1,0 +1,40 @@
+@import "normalize.css";
+
+.bp3-spinner .bp3-spinner-head {
+  stroke: #2e9e9c;
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+  background: transparent;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.center-self {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.center-self-vertical {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.center-self-horizontal {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.bp3-breadcrumb,
+.bp3-breadcrumb-current {
+  color: #244947;
+}
