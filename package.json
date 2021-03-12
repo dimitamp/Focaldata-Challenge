@@ -59,7 +59,7 @@
     "lint-staged": "^8.2.1",
     "parcel": "^1.12.3",
     "parcel-bundler": "^1.12.3",
-    "react-dev-utils": "^9.0.0",
+    "react-dev-utils": "^11.0.4",
     "rimraf": "^2.6.3"
   },
   "husky": {
