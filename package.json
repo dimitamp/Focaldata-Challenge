@@ -30,7 +30,7 @@
     "react-router-dom": "^5.0.0",
     "rebas": "^0.4.1",
     "rebass": "^3.1.1",
-    "recharts": "^1.6.2",
+    "recharts": "^2.1.14",
     "redux": "^4.0.1",
     "shortid": "^2.2.15",
     "styled-components": "^4.3.2",
